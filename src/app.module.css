@@ -1,0 +1,29 @@
+
+
+.App {
+    height: auto;
+    display: grid;
+    text-align: center;
+    grid-template-columns: auto;
+    grid-template-rows: 10vh auto;
+    grid-template-areas: 'h'
+                         'm'
+                         'f';
+    padding: 0;
+    
+  }
+
+  @media (max-width: 470px){
+    .App{
+    grid-template-rows: 8vh auto;
+    height: 100vh;
+
+  }
+  }
+  
+  .Icons{
+
+    display: flex;
+    justify-content: flex-end;
+
+  }

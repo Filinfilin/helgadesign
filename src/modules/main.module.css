@@ -1,0 +1,19 @@
+.Main{
+
+ display:grid;
+ background-color: #FFFCFC;
+ grid-area: m;
+ height: auto ;
+ 
+ padding: 0;
+ 
+}
+
+.Icons{
+
+  display: flex;
+  flex-direction: row;
+
+}
+
+

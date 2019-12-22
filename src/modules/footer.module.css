@@ -1,0 +1,41 @@
+.Footer{
+
+    display: grid;
+    background-color:black;
+    grid-area: f;
+    text-align: center;
+}
+
+
+
+.Socialm{
+
+    display: flex;
+    padding: 5vh;
+    padding-left: 30vh;
+    padding-right: 30vh;
+    justify-content: right;
+    
+
+}
+
+.Socialm i{
+
+    padding: 10px;
+    color: blanchedalmond;
+    
+}
+
+
+@media (max-width: 470px){
+
+ .Socialm{
+    display: flex;
+    padding-left: 3vh;
+    padding-right: 3vh;
+    justify-content: right;
+    flex-direction: row-reverse;
+    }
+ 
+
+}
