@@ -1,10 +1,10 @@
 import React from 'react';
-import st from './burger.module.css';
+import st from './designPage.module.css';
 
 const Burger=(props)=> {
   return(
    
-        <div className={st.burger}>
+        <div className={st.designPage}>
                   fgmfhmghm
           </div>   
 

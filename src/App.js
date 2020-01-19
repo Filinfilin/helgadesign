@@ -4,22 +4,26 @@ import Main from "./modules/main"
 import Header from "./modules/header";
 import st from "./app.module.css";
 
+
+
 function App() {
   return (
     <div className={st.App}>
-
+    
                 <Header />
-
                 
 
-                <Main />
+                
+                  <Main />
 
 
 
                 <Footer/>
-                        
+                    
     </div>
-  );
+ 
+  
+   );
 }
 
 export default App;

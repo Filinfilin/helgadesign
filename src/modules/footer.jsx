@@ -7,8 +7,8 @@ const Footer=(props)=> {
     <div className={st.Socialm}>
 
 
-                                <a href='https://instagram.com/oliviabailey.interiors?igshid=1jfdgrp02xyq0'><i class="fab fa-telegram-plane"></i></a>
-                                <a href='https://instagram.com/oliviabailey.interiors?igshid=1jfdgrp02xyq0'><i class="fab fa-instagram "></i></a>
+                                <a href='https://instagram.com/oliviabailey.interiors?igshid=1jfdgrp02xyq0'><i className="fab fa-telegram-plane"></i></a>
+                                <a href='https://instagram.com/oliviabailey.interiors?igshid=1jfdgrp02xyq0'><i className="fab fa-instagram "></i></a>
                 
     </div>
     </div>

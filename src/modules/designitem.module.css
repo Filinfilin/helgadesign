@@ -1,0 +1,23 @@
+
+
+
+
+
+.item{
+
+    display: grid;
+    grid-template-columns: repeat(1fr, 2fr);
+    grid-template-areas: 'i d';
+  
+
+    
+    }
+
+
+.pic{
+
+        height: 600px5;
+        width: 600px;
+        padding: 5px ;
+        
+      }
