@@ -35,6 +35,8 @@ class DesignItems extends React.Component {
 //   }
   
 //pictures working as button onclick for redirection to discription page
+//git commit should be suddenly 
+
 render(){
   return (
               <div className={st.Galerea}>
@@ -49,7 +51,7 @@ render(){
                            <img alt ='d1' src ={imges1}></img></div> */}
                           
 
-                          <link ><div className={st.design2}><img alt ='d' src ={imges2}></img></div></link>          
+                          <div className={st.design2}><img alt ='d' src ={imges2}></img></div>          
                           <div className={st.design3}><img alt ='d' src ={imges3}></img></div>
                           <div className={st.design4}><img alt ='d' src ={imges4}></img></div>
                           <div className={st.design5}><img alt ='d' src ={imges5}></img></div>
