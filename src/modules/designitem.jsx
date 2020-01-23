@@ -6,7 +6,7 @@ import imges1 from './imges/1.jpg';
 // import imges5 from './imges/5.png';
 // import imges6 from './imges/6.png'
 import st from './designitem.module.css';
-import {BrowserRouter as Router, Switch, Route} from 'react-router-dom'
+// import {BrowserRouter as Router, Switch, Route} from 'react-router-dom'
 
 
 
